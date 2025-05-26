@@ -22,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+increment_demo/package-lock.json
+increment_demo/yarn.lock
+increment_demo/yarn.lock
